@@ -1,7 +1,5 @@
 # Windows NT Legacy NT6 Installer
 
-**License:** MIT  
-
 ---
 
 ## 🧠 What is it?
@@ -80,10 +78,14 @@ https://drive.google.com/file/d/1JQKF3b4ueRGR47BmzS1lNWkkzjQC1G-j/view?usp=drive
  - UEFI support (Quibble, CSNWrap, Freeldr, Vista 5219 UEFI files)
  - Windows 10 setup support for Windows NT 3.51 and 4.0
 
-📝 License
+---
+
+## 📝 License
 MIT License — Use freely, attribute credit.
 
-✨ Credits
+---
+
+## ✨ Credits
  - 2W10 / Techonus – Lead developer
  - ages2001 - for Windows NT 4.0 & Windows 2000 installs
  - archeYR/Illen - for Windows NT 3.51 installs
