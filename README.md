@@ -45,10 +45,8 @@ https://drive.google.com/file/d/1JQKF3b4ueRGR47BmzS1lNWkkzjQC1G-j/view?usp=drive
 
 ## 🖥️ Requirements
 
-- A working Windows PE (WinPE 10+) bootable USB or ISO
-- `dism.exe`, `bootsect.exe`, and `xcopy.exe` in your WinPE
-- `.WIM` images of NT 3.51, NT 4.0, or 2000 in `\sources`
-- Legacy-compatible BIOS system (UEFI with CSM or legacy mode)
+- This ISO
+- Legacy-compatible BIOS system (UEFI with CSM or legacy mode. CSMWrap might work as well but no guarantee.)
 
 ---
 
