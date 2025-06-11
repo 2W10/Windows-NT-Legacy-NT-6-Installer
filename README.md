@@ -78,11 +78,6 @@ https://drive.google.com/file/d/1JQKF3b4ueRGR47BmzS1lNWkkzjQC1G-j/view?usp=drive
 
 ---
 
-## 📝 License
-MIT License — Use freely, attribute credit.
-
----
-
 ## ✨ Credits
  - 2W10 / Techonus – Lead developer
  - ages2001 - for Windows NT 4.0 & Windows 2000 installs
