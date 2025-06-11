@@ -28,11 +28,6 @@ Use at your own risk. No warranty is provided.
 
 ---
 
-## 📥 Download
-https://drive.google.com/file/d/1JQKF3b4ueRGR47BmzS1lNWkkzjQC1G-j/view?usp=drive_link 
-
----
-
 ## 🔧 Features
 
 - Disk partitioning and formatting via DiskPart
